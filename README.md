@@ -1,3 +1,7 @@
+### EX NO: 10
+### DATE:
+# <p align="center">IMPLEMENTATION OF EROSION AND DILATION</p>
+
 # Implementation-of-Erosion-and-Dilation
 ## Aim
 To implement Erosion and Dilation using Python and OpenCV.
@@ -21,7 +25,10 @@ Apply erosion and dilation using cv2.erode and cv2.dilate.
 Plot the images using plt.imshow.
  
 ## Program:
-
+```
+### Developed By   : N Sandhya Charu
+### Register Number: 212220230041
+```
 ``` Python
 # Import the necessary packages
 import cv2
