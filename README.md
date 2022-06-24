@@ -2,7 +2,6 @@
 ### DATE:
 # <p align="center">IMPLEMENTATION OF EROSION AND DILATION</p>
 
-# Implementation-of-Erosion-and-Dilation
 ## Aim
 To implement Erosion and Dilation using Python and OpenCV.
 ## Software Required
